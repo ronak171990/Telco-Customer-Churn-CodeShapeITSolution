@@ -8,7 +8,7 @@ We used Python for data preprocessing, EDA, and modeling, and evaluated the mode
 
 ## 📁 Dataset Information
 
-* 📌 **Source**: IBM Sample Dataset
+* 📌 **Source**: Kaggle Sample Dataset
 * 📍 **Records**: 7,043 customer entries
 * 🌟 **Target**: `Churn` (Yes/No)
 
